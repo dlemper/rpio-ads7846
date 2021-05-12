@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dlemper/rpio-ads7846/issues"
   },
-  "homepage": "https://github.com/dlemper/rpio-ads7846#readme"
+  "homepage": "https://github.com/dlemper/rpio-ads7846#readme",
+  "peerDependencies": {
+    "rpio": "^2.4.2"
+  },
+  "devDependencies": {
+    "rpio": "*"
+  }
 }
