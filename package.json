@@ -1,0 +1,19 @@
+{
+  "name": "rpio-ads7846",
+  "version": "0.1.0",
+  "description": "touch controller interface using rpio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlemper/rpio-ads7846.git"
+  },
+  "author": "Daniel Lemper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlemper/rpio-ads7846/issues"
+  },
+  "homepage": "https://github.com/dlemper/rpio-ads7846#readme"
+}
